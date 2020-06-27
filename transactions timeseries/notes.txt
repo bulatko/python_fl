@@ -1,0 +1,325 @@
+
+
+FTD-mf.csv:
+NOTES
+"For the U.S. International Trade in Goods and Services Press Release, prior month totals are subject to revision. For additional information on revisions visit http://www.census.gov/foreign-trade/guide/sec2.html#revisions  
+
+
+
+For information on the reliability and use of the data, including important notes on nonsampling errors, seasonal adjustment, and other information pertinent to this economic indicator, visit the <a target=""_blank"" href=""http://www.census.gov/foreign-trade/Press-Release/current_press_release/ft900.pdf"">U.S. International Trade in Goods and Services Press Release</a> [PDF, 820KB], or refer to the <a target=""_blank"" href=""http://www.census.gov/foreign-trade/www/index.html"">Foreign Trade Statistics</a> website, which provides a link to more <a target=""
+
+_blank"" href=""http://www.census.gov/foreign-trade/Press-Release/current_press_release/press.html#prior"">historical data</a> for this release."
+
+
+"DATA UPDATED ON"
+"Thursday, 05-Oct-17 08:25:08 EDT"
+
+HV-mf.csv:
+NOTES
+"<p>In the second quarter 2017, the CPS/HVS revised the series of housing inventory estimates back to the first quarter 2010, based on the latest series of independent housing controls, the vintage 2016 time series. Housing inventory estimates from the second quarter 2000 through the fourth quarter 2009 are revised based on the vintage 2010 time series. Housing inventory estimates, prior to the second quarter 2000, have not been revised. These annual estimates are updated using building permits, estimates of housing loss, and administrative records data. Vacancy rates and homeownership rates are not affected by this revision.</p>
+
+
+
+<p>Methodology on how the housing controls are computed can be found at: https://www.census.gov/programs-surveys/popest.html</p>  
+
+
+
+<p>See the Source and Accuracy Statement for more information on the CPS/HVS vacancy and homeownership rates and estimates: http://www.census.gov/housing/hvs/</p> 
+
+ 
+
+<p>NA Not applicable</p>
+
+
+
+<p>(z) Less than .05 percent</p>"
+
+
+"DATA UPDATED ON"
+"Thursday, 27-Jul-17 09:55:47 EDT"
+
+M3-mf.csv:
+NOTES
+"<p>Revised historical data from the Manufacturers' Shipments, Inventories, and Orders (M3) Survey were issued on May 18, 2017.  These revisions result from: benchmarking the M3 shipments and inventories data to the 2015 Annual Survey of Manufactures (ASM) and revised 2014 ASM data on a 2012 NAICS basis; incorporating the unfilled orders to shipments ratios obtained from the 2015/2014 Manufacturers&#39; Unfilled Orders (M3UFO) Survey by applying these ratios to the respective ASM shipments data, as well as incorporating revised unfilled orders to shipments ratios for prior years by applying them to the respective ASM data; adjusting the new orders data to be consistent with the benchmarked shipments and unfilled orders data; correcting monthly data for late receipts, reclassifications of reported data, and revisions to previously reported data; updating the seasonally adjusted data based on the results of benchmarking and the recent annual review of the seasonal adjustment models.  These revisions spanned the seasonally adjusted data for January 2002 through March 2017 and the data not seasonally adjusted for January 2007 through March 2017.  An updated Press Release contains revised monthly tables for January 2017 through March 2017.  Please call M3 staff on (301) 763-4832 with any questions.</p>
+
+
+
+<p>For the Manufacturers' Shipments, Inventories, and Orders Survey, all current month estimates are preliminary estimates and will be superseded in following months by revised estimates.</p>
+
+
+
+<p>For information on survey methodology and use of the data, including seasonal adjustment and other information pertinent to this economic indicator, go to the <a target=""_blank"" href=""http://www.census.gov/manufacturing/m3/index.html"">Manufacturers' Shipments, Inventories, and Orders</a> website, which provides a link to <a target=""_blank"" href=""http://www.census.gov/manufacturing/m3/historical_data/index.html"">historical data</a>.</p>"
+
+
+"DATA UPDATED ON"
+"Thursday, 05-Oct-17 09:52:22 EDT"
+
+MARTS-mf.csv:
+NOTES
+"<p>For the Advance Monthly Retail Trade Survey, estimates for the most recent month are advance estimates that are based on data from a subsample of firms from the larger Monthly Retail Trade Survey.  The advance estimates will be superseded in following months by revised estimates derived from the larger Monthly Retail Trade Survey.</p>
+
+
+
+<p>For information on the reliability and use of the data, including important notes on estimation and sampling variance, seasonal adjustment, measures of sampling variability, and other information pertinent to this economic indicator, go to the <a href = ""http://www.census.gov/retail/index.html"">Monthly and Annual Retail Trade</a> website.</p>
+
+
+
+<p>Estimated measures of sampling variability for totals are expressed as coefficients of variation (CV). Standard errors (SE) are provided for month-to-month change and ratio estimates.</p>
+
+
+
+<p>Estimated measures of sampling variability are based on data not adjusted for seasonal variation, and should be used when drawing inferences about both adjusted and not adjusted estimates.</p>
+
+
+
+<p>NA = Not available.</p>"
+
+
+"DATA UPDATED ON"
+"Friday, 13-Oct-17 08:25:14 EDT"
+
+MHS-mf.csv:
+NOTES
+"<p>For the Manufactured Homes Survey, all current month estimates are preliminary estimates and will be superseded in following months by revised estimates.</p>
+
+
+
+<p>NA - Not Available.</p>
+
+<p>S - Suppressed to avoid disclosing data for individual dealers.  Data are included in higher-level estimates.</p>
+
+<p>A - Represents a Relative Standard Error of 100 or more, or could not be computed.</p>
+
+<p>X - Represents a Relative Standard Error omitted due to the suppression 
+
+of the corresponding data element.</p>
+
+
+
+<p>Information on the survey methodology and use of the data is available on the 
+
+<a target=""_blank""
+
+href=""http://www.census.gov/construction/mhs/mhsindex.html"">Manufactured Homes Survey website</a> under the tabs labeled <strong>How the Data are Collected</strong> and <strong>About the Survey</strong>.<p/>"
+
+
+"DATA UPDATED ON"
+"Sunday, 10-Jan-16 13:58:41 EST"
+
+MHS2-mf.csv:
+NOTES
+"<p>NA - Not Available.</p>
+
+<p>D - Estimate withheld to avoid disclosing data for an individual home.</p>
+
+<p>A - Represents a Relative Standard Error of 100 or more, or could not be computed.</p>
+
+<p>Z - Estimate is less than 50 units.</p>
+
+
+
+<p>Information on the survey methodology and use of the data is available on the 
+
+<a target=""_blank""
+
+href=""http://www.census.gov/programs-surveys/mhs.html"">Manufactured Homes Survey website</a> under the tabs labeled <strong>Information for Respondents</strong> and <strong>About the Survey</strong>.<p/>"
+
+
+"DATA UPDATED ON"
+"Tuesday, 05-Sep-17 15:18:52 EDT"
+
+MRTS-mf.csv:
+NOTES
+"<p>For the Monthly Retail Trade Survey, all current month estimates are preliminary estimates, which will be superseded in following months by revised estimates.</p>
+
+
+
+<p>Inventories estimates released as part of the Advance Economic Indicators Report are not included in the time series. For the latest advance estimates, go to the <a target=""_blank"" href=""http://www.census.gov/econ/indicators/index.html"">Advance Economic Indicators Report</a> website.</p>
+
+
+
+<p>For information on the reliability and use of the data, including important notes on estimation and sampling variance, seasonal adjustment, measures of sampling variability, and other information pertinent to this economic indicator, go to the <a target=""_blank"" href=""http://www.census.gov/retail/index.html"">Monthly and Annual Retail Trade</a> website, which provides time-series Excel files for <a target=""_blank"" href=""https://www.census.gov/retail/mrts/www/mrtssales92-present.xls"">Sales</a> [XLS, 665kb], and <a target=""_blank"" href=""https://www.census.gov/mtis/www/mrtsinv92-present.xls"">Inventories and Inventories/Sales Ratios</a> [XLS, 420kb] data.</p>
+
+
+
+<p>Estimated measures of sampling variability for totals are expressed as coefficients of variation (CV).  Standard errors (SE) are provided for month-to-month change and ratio estimates. </p>
+
+
+
+<p>Estimated measures of sampling variability are based on data not adjusted for seasonal variation, and should be used when drawing inferences about both adjusted and not adjusted estimates.</p>
+
+
+
+<p>Inventories are only available for the following industries (defined in Box 3 above): 44000, 4400A, 441, 4423X, 444, 445, 448, 452, 4521.</p>
+
+
+
+<p>NA = Not available.</p>
+
+<p>(S) = Suppressed.</p>"
+
+
+"DATA UPDATED ON"
+"Friday, 13-Oct-17 09:55:53 EDT"
+
+MTIS-mf.csv:
+NOTES
+"<p>For the Manufacturing and Trade Inventories and Sales Report, all current month estimates are preliminary estimates, which will be superseded in following months by revised estimates.  NA is provided for all future, unpublished months.</p>
+
+
+
+<p>The Manufacturing and Trade Inventory and Sales estimates are based on data from three surveys:  The Monthly Retail Trade Survey (MRTS), the Monthly Wholesale Trade Survey (MWTS), and the Manufacturers' Shipments, Inventories, and Orders Survey (M3).  Provided as measures of sampling variability are coefficients of variation (CV) for totals and standard errors (SE) for month-to-month percent change and ratio estimates, except in the following instances:  For Manufacturers, SEs and CVs of the industry estimates cannot be calculated due to the fact that M3's mail panel is not a probability sample.  Consequently, Manufacturers sampling error estimates are not available.  Also at this time, Total Business SEs are unavailable for month-to-month percent change and ratio estimates.</p>
+
+
+
+<p>For information on the reliability and use of the data, including important notes on estimation and sampling variance, seasonal adjustment, measures of sampling variability, and other information pertinent to this economic indicator, go to the <a target=""_blank"" href=""http://www.census.gov/mtis/index.html"">Manufacturing and Trade Inventories and Sales</a> website, which provides time-series text files for <a target=""_blank"" href=""http://www.census.gov/mtis/www/data/text/mtis-sales.txt"">Sales</a>, <a target=""_blank"" href=""http://www.census.gov/mtis/www/data/text/mtis-inventory.txt"">Inventories</a>, and <a target=""_blank"" href=""http://www.census.gov/mtis/www/data/text/mtis-inventory.txt"">Inventories/Sales Ratios</a> data.</p>
+
+
+
+<p>Estimated measures of sampling variability are based on data not adjusted for seasonal variation, and should be used when drawing inferences about both adjusted and not adjusted estimates.</p>
+
+
+
+<p>NA = Not available.</p>"
+
+
+"DATA UPDATED ON"
+"Friday, 13-Oct-17 09:55:22 EDT"
+
+MWTS-mf.csv:
+NOTES
+"<p>For the Monthly Wholesale Trade Survey, all current month estimates are preliminary estimates and will be superseded in following months by revised estimates.</p>
+
+
+
+<p>Inventories estimates released as part of the Advance Economic Indicators Report are not included in the time series. For the latest advance estimates, go to the <a target=""_blank"" href=""http://www.census.gov/econ/indicators/index.html"">Advance Economic Indicators Report</a> website.</p>
+
+
+
+<p>For information on the reliability and use of the data, including important notes on estimation and sampling variance, seasonal adjustment, measures of sampling variability, and other information pertinent to this economic indicator, go to the <a target=""_blank"" href=""http://www.census.gov/wholesale/pdf/mwts/currentwhl.pdf"">Monthly Wholesale Trade Report</a> [PDF], or refer to the <a target=""_blank"" href=""http://www.census.gov/wholesale/index.html"">Monthly and Annual Wholesale Trade</a> website, which provides a link to more <a target=""_blank"" href=""http://www.census.gov/wholesale/www/historic_releases/"">historical data</a> for these reports.</p>
+
+
+
+<p>Estimated measures of sampling variability for totals are expressed as coefficients of variation (CV). Standard errors (SE) are provided for month-to-month change and ratio estimates. </p>
+
+
+
+<p>Estimated measures of sampling variability are based on data not adjusted for seasonal variation, and should be used when drawing inferences about both adjusted and not adjusted estimates.</p>"
+
+
+"DATA UPDATED ON"
+"Friday, 06-Oct-17 09:56:03 EDT"
+
+QFR-mf.csv:
+NOTES
+"<p>Visit the Quarterly Financial Report internet website <a href=""http://www.census.gov/econ/qfr/"">www.census.gov/econ/qfr/</a> for more information, including summary statements of income and retained earnings, balance sheets, and related financial and operating ratios for manufacturing, mining, wholesale trade, retail trade, and selected service industries. </p>
+
+
+
+<p>Measures of sampling variability are provided with the data and should be closely examined before the data are used.  The measure of sampling variability displayed depends on the item selected.  If an item can have a value that is zero, positive, or negative, the measure presented is the Standard Error.  If an item can have a value that is only zero or positive, the measure presented is the Relative Standard Error (RSE, also called a coefficient of variation).  Click on the Definitions link for more information on measures of sampling variability and their uses.</p>
+
+
+
+<p>NA - data not available</p>"
+
+
+"DATA UPDATED ON"
+"Wednesday, 06-Sep-17 09:51:20 EDT"
+
+QPR-mf.csv:
+NOTES
+"<p>The Quarterly Survey of Public Pensions (QSPP) is a quarterly survey that provides national summary data on the revenues, expenditures, and composition of assets of the largest defined benefit public employee retirement systems for state and local governments. The survey consists of a panel of 100 retirement systems, which comprise 89.4 percent of financial activity among such entities, based on the 2007 Census of Governments. After a census has been taken, it is considered best practice to reselect the largest 100 retirement systems. The first quarter for 2009 presents data from the new universe of the 100 largest systems. The previous quarters represent data from the old universe. Five of the 100 units from the old universe were replaced with new retirement systems.</p>
+
+
+
+<p>For more information, visit the <a target=""_blank"" href=""http://www.census.gov/govs/qpr/index.html"">QSPP</a> website, which provides a link to <a target=""_blank"" href=""http://www.census.gov/govs/qpr/historical_data.html"">historical data</a> (including footnotes and explanations about changes to panel and definitions over time), detailed statements about <a target=""_blank"" href=""http://www2.census.gov/govs/qpr/quarterly_methodology.pdf"">survey methodology</a>,
+
+<a target=""_blank"" href=""http://www.census.gov/govs/qpr/how_data_collected.html"">data collection</a>, 
+
+and the <a target=""_blank"" href=""http://www.census.gov/govs/qpr/get_forms.html"">current questionnaire</a>.</p>"
+
+
+"DATA UPDATED ON"
+"Thursday, 28-Sep-17 10:20:50 EDT"
+
+QSS-mf.csv:
+NOTES
+"<p>For the Quarterly Services Survey, all current quarter estimates are advance estimates and will be superseded in following releases by revised estimates.</p>
+
+
+
+<p>For information on the reliability and use of the data, including important notes on estimation and sampling variance, seasonal adjustment, measures of sampling variability, and other information pertinent to this economic indicator, visit the <a target=""_blank"" href=""http://www.census.gov/services/qss/qss-current.pdf"">latest Quarterly Services Survey report</a> [PDF, 923KB], or refer to the <a target=""_blank"" href=""http://www.census.gov/services/index.html"">Annual and Quarterly Services</a> website, which provides a link to more <a target=""_blank"" href=""http://www.census.gov/services/qss/historic_data.html"">historical data</a> for this survey.</p>
+
+
+
+<p>Estimated measures of sampling variability for totals are expressed as coefficients of variation (CV).  Standard errors (SE) are provided for quarter-to-quarter change and ratio estimates.</p>
+
+
+
+<p>X = Not applicable.</p>     
+
+<p>Z = Absolute value is less than 0.05.</p>
+
+<p>S = Estimate does not meet publication standards because of high sampling variability, poor response quality or other concerns about the estimate's quality.</p>"
+
+
+"DATA UPDATED ON"
+"Thursday, 07-Sep-17 09:55:32 EDT"
+
+QTAX-mf.csv:
+NOTES
+"The Quarterly Summary of State and Local Government Tax Revenue provides quarterly estimates of state and local government tax revenue at a national level, as well as detailed tax revenue data for individual states.  This quarterly survey has been conducted continuously since 1962. The information contained in this survey is the most current information available on a nationwide basis for government tax collections. <BR/><BR/>
+
+
+
+For more information about the survey, click here:
+
+<a href=""http://www.census.gov/govs/qtax/about_the_survey.html"">About the Survey</a> <BR/>
+
+
+
+For more information about how data are collected, click here:
+
+<a href=""http://www.census.gov/govs/qtax/how_data_collected.html"">How Data are Collected</a> <BR/><BR/>
+
+ 
+
+A Special Note Concerning Revised Data:<BR/>
+
+Revisions reflect tax collection amounts obtained from three general sources. State and local government respondents have submitted revisions to amounts as originally reported. In other cases, governments have reported data, which we used to replace data that were previously imputed or estimated. Finally, some of the revisions were compiled from government sources, both published and unpublished. <BR/>"
+
+
+"DATA UPDATED ON"
+"Tuesday, 19-Sep-17 09:56:37 EDT"
+
+RESCONST-mf.csv:
+NOTES
+"<p>For important information on the timeliness of these data compared with the official press release, the schedule for revisions to these data, links to additional related data, and standard errors for these estimates, see <a href=""http://www.census.gov/construction/nrc/cidr_foot_nrc.html"">footnote</a>, or go directly to the <a href=""http://www.census.gov/construction/nrc/"">New Residential Construction</a> web page.</p>"
+
+
+"DATA UPDATED ON"
+"Wednesday, 27-Sep-17 07:52:42 EDT"
+
+RESSALES-mf.csv:
+NOTES
+"<p>For important information on the timeliness of these data compared with the official press release, the schedule for revisions to these data, links to additional related data, and standard errors for these estimates, see <a href=""http://www.census.gov/construction/nrs/cidr_foot_nrs.html"">footnote</a>, or go directly to the <a href=""http://www.census.gov/construction/nrs/"">New Residential Sales</a> web page.</p>"
+
+
+"DATA UPDATED ON"
+"Tuesday, 26-Sep-17 09:55:53 EDT"
+
+VIP-mf.csv:
+NOTES
+"<p>For the Construction Spending Survey, all current month estimates are preliminary estimates and will be superseded in following months by revised estimates.</p>
+
+
+
+<p>For information on survey methodology and use of the data, including seasonal adjustment and other information pertinent to this economic indicator, go to the <a target=""_blank"" href=""http://www.census.gov/construction/c30/pdf/release.pdf"">Construction Spending Press Release</a> [PDF, 176KB], or refer to the <a target=""_blank"" href=""http://www.census.gov/construction/c30/c30index.html"">Construction Spending</a> website, which provides a link to more <a target=""_blank"" href=""http://www.census.gov/construction/c30/prpdf.html"">historical data</a> for these reports.</p>
+
+
+
+<p>With the release of the January 2017 Monthly Construction Spending Report on March 1, 2017, the presentation of the release will change. We are removing the text portion of the release from Excel. The layout and format of the tables are not currently changing, though some explanatory notes may move to the text portion of the document. The full text and tables will still be available as a PDF. For more information and a preview of the new format, visit <a target=""_blank"" href=""www.census.gov/constructionspending"">www.census.gov/constructionspending</a></p>"
+
+
+"DATA UPDATED ON"
+"Monday, 02-Oct-17 09:56:39 EDT"
